@@ -9,7 +9,7 @@
 <a href="https://twitter.com/gostavovinicius" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gostavovinicius-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/gustavo-vin%C3%ADcius-a00b22146/" target="_blank">
+<a href="https://www.linkedin.com/in/gostavovinicius/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gostavovinicius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/gostavovinicius" target="_blank">
