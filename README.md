@@ -19,7 +19,7 @@
 
 - 👨‍💻 Aqui você encontra todos os meus projetos recentes.
 
-- 💬 Me pergunte sobre **C#, SQL Server, HTML, CSS**
+- 💬 Me pergunte sobre **C#, SQL Server, HTML, CSS.**
 
 <br>
 
