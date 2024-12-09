@@ -24,3 +24,7 @@ Bem-vindo ao meu perfil! Sou professor de informática e desenvolvedor Front-End
 ---
 
 🎯 **Missão**: Me tornar um Desenvolvedor Front-End!
+
+---
+
+![snake gif](https://github.com/gostavovinicius/gostavovinicius/blob/output/github-contribution-grid-snake.svg)
