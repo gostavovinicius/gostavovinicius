@@ -1,42 +1,26 @@
-<center><h1 align="left">Olá, Eu sou o Gustavo Vinícius</h1>
+# 👋 Olá! Eu sou o Gustavo Vinícius
 
+Bem-vindo ao meu perfil! Sou professor de informática e desenvolvedor Front-End em constante aprendizado. Tenho paixão por ensinar e criar interfaces que proporcionem ótimas experiências aos usuários.
 
-## 👨🏽‍🦲 &nbsp;Redes Sociais
+---
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/gostavovinicius" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gostavovinicius-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/gostavovinicius/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gostavovinicius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/gostavovinicius" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gostavovinicius-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+## 🚀 Tecnologias que domino:
+- **HTML** e **CSS**: Para estruturar e estilizar páginas incríveis.
+- **Git** e **GitHub**: Ferramentas essenciais para controle de versão e colaboração.
+- **Scrum**: Metodologia ágil para gerenciar projetos de forma eficiente.
 
-- 🔥 Focado em melhorar minha habilidades na programação. 
+---
 
-- 👨‍💻 Aqui você encontra todos os meus projetos recentes.
+## 🌱 Atualmente, aprendo e no futuro pretendo estudar:
+- HTML, CSS buscando me aprofundar e dominar essas tecnologias de desenvolvimento.
+- Javascript e React! Pretendo partir para essas tecnologias nos proximos meses.
 
-- 💬 Me pergunte sobre **C#, SQL Server, HTML, CSS.**
+---
 
-<br>
+## 🌐 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/gostavovinicius/)
+- [Instagram](https://www.instagram.com/gostavovinicius/)
 
-## 🛠 &nbsp;Tech Stack
+---
 
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrumalliance)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
- <div>
- <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gostavovinicius&show_icons=true&theme=vision-friendly-dark" alt="gostavovinicius's stats"/>
-</p>
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gostavovinicius&color=yellow" alt="Profile views" /> </p>
-   </dev>
+🎯 **Missão**: Me tornar um Desenvolvedor Front-End!
